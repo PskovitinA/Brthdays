@@ -1,0 +1,17 @@
+{
+    "name": "pskovitin/dates",
+    "description": "Find days number from birthday to today",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Pskovitin",
+            "email": "a.pskovitin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pskovitin\\" : "src"
+        }
+    }
+}
